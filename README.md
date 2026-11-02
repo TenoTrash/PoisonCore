@@ -1,4 +1,4 @@
-# PoisonCore — firmware de pentesting MeshCore (Cardputer ADV)
+# PoisonCore - firmware de pentesting MeshCore (Cardputer ADV)
 
 Firmware para **M5Stack Cardputer ADV** (ESP32-S3) + **Cap LoRa-1262** (SX1262), orientado a **MeshCore** (sync word `0x12`). Hermano de PoisonMesh (que targetea Meshtastic). 
 **Uso autorizado únicamente**: redes propias o con permiso explícito. Afecta espectro RF compartido.
